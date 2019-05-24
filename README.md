@@ -36,7 +36,7 @@ conda activate DOTA
 
 ## Authors
 - **Wenyu Yang**: wenyuyang@gwu.edu
-- **Tianyu Yang**
+- **Tianyu Yang**: tyyang@gwu.edu
 
 ## License
 
